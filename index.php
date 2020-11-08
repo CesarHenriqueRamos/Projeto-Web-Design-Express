@@ -36,7 +36,7 @@
 				break;
 
 			case 'servicos':
-				echo '<target target="servicos" />';
+				echo '<target target="contato" />';
 				break;
 		}
     ?>
